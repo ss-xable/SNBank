@@ -1,0 +1,9 @@
+Username1: jsmith
+Password1: Qwerty12
+Email1: johnsmith@yahoo.com
+Fullname1: John Smith
+
+Username2: dstinson
+Password2: Query12
+Email2: dorcasstinson@yahoo.com
+Fullname2: Dorcas Stinson

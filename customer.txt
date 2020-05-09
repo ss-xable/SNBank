@@ -1,0 +1,5 @@
+Account Name: mike olufemi 
+Opening Balance: 103 
+Account Type: Savings 
+Account Email: olufemi@yahoo.com 
+Account Number: 6861515472 
